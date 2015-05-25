@@ -1,0 +1,39 @@
+name: EFUtils
+version: 1.0
+main: com.efdevelopment.efutils.EFUtil
+description: EFUtils - A Informational and Helpful Plugin For EXPLODINGFreedom
+authors: [EXPLODINGTNT001]
+commands:
+    efutils:
+        usage: /<command>
+        description: EFUtils information and versioning.
+        aliases: information
+    developers:
+        usage: /<command>
+        description: Find the server's developers
+        aliases: devs 
+    welcomenewb:
+        usage: /<command>
+        description: Use to give a welcome message sent from panel.
+        aliases: wcn    
+    ineedop:
+        usage: /<command>
+        description: Request OP
+        aliases: requestop
+    groupmanager:
+        usage: /<command>
+        description: Tell people we dont use groupmanager or PermissionsEx.
+        aliases: permissionsex
+    griefreport:
+        usage: /<command>
+        description: Alert admins about a grief.
+        aliases: gmr
+    requesthelp:
+        usage: /<command>
+        description: Tell admins your not OP.
+        aliases: ineedhelp
+    owner:
+        usage: /<command>
+        description: Find the server's owner
+        aliases: founder
+        
