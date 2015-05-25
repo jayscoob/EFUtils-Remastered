@@ -1,5 +1,5 @@
 EFUtils General License
-Version 2.0, 27th February 2015
+Version 1.0, 25th May 2015
 
 Copyright (c) 2014-2015, EXPLODINGTNT001
 
